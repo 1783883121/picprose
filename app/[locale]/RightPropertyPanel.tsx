@@ -209,6 +209,7 @@ export const RightPropertyPanel = (props) => {
     { label: "3 : 2", value: "aspect-[3/2]", description: "900x450" },
     { label: "4 : 3", value: "aspect-[4/3]", description: "900x450" },
     { label: "16: 9", value: "aspect-[16/9]", description: "900x450" },
+    { label: "2.35: 1", value: "aspect-[2.35/1]", description: "940x400" },
   ];
 
   const img_aspect_y_list = [
